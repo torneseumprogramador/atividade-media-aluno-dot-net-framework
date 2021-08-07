@@ -1,32 +1,47 @@
-C:\Users\Sebastião\source\repos\atividadeAlunoMedia\atividadeAlunoMedia\obj\Debug\net5.0\atividadeAlunoMedia.csproj.AssemblyReference.cache
-C:\Users\Sebastião\source\repos\atividadeAlunoMedia\atividadeAlunoMedia\obj\Debug\net5.0\atividadeAlunoMedia.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Sebastião\source\repos\atividadeAlunoMedia\atividadeAlunoMedia\obj\Debug\net5.0\atividadeAlunoMedia.AssemblyInfoInputs.cache
-C:\Users\Sebastião\source\repos\atividadeAlunoMedia\atividadeAlunoMedia\obj\Debug\net5.0\atividadeAlunoMedia.AssemblyInfo.cs
-C:\Users\Sebastião\source\repos\atividadeAlunoMedia\atividadeAlunoMedia\obj\Debug\net5.0\atividadeAlunoMedia.csproj.CoreCompileInputs.cache
-C:\Users\Sebastião\source\repos\atividadeAlunoMedia\atividadeAlunoMedia\bin\Debug\net5.0\atividadeAlunoMedia.exe
-C:\Users\Sebastião\source\repos\atividadeAlunoMedia\atividadeAlunoMedia\bin\Debug\net5.0\atividadeAlunoMedia.deps.json
-C:\Users\Sebastião\source\repos\atividadeAlunoMedia\atividadeAlunoMedia\bin\Debug\net5.0\atividadeAlunoMedia.runtimeconfig.json
-C:\Users\Sebastião\source\repos\atividadeAlunoMedia\atividadeAlunoMedia\bin\Debug\net5.0\atividadeAlunoMedia.runtimeconfig.dev.json
-C:\Users\Sebastião\source\repos\atividadeAlunoMedia\atividadeAlunoMedia\bin\Debug\net5.0\atividadeAlunoMedia.dll
-C:\Users\Sebastião\source\repos\atividadeAlunoMedia\atividadeAlunoMedia\bin\Debug\net5.0\ref\atividadeAlunoMedia.dll
-C:\Users\Sebastião\source\repos\atividadeAlunoMedia\atividadeAlunoMedia\bin\Debug\net5.0\atividadeAlunoMedia.pdb
-C:\Users\Sebastião\source\repos\atividadeAlunoMedia\atividadeAlunoMedia\obj\Debug\net5.0\atividadeAlunoMedia.dll
-C:\Users\Sebastião\source\repos\atividadeAlunoMedia\atividadeAlunoMedia\obj\Debug\net5.0\ref\atividadeAlunoMedia.dll
-C:\Users\Sebastião\source\repos\atividadeAlunoMedia\atividadeAlunoMedia\obj\Debug\net5.0\atividadeAlunoMedia.pdb
-C:\Users\Sebastião\source\repos\atividadeAlunoMedia\atividadeAlunoMedia\obj\Debug\net5.0\atividadeAlunoMedia.genruntimeconfig.cache
-C:\Desenv\AeCAcademy\C# .NET Console\atividadeAlunoMedia\atividadeAlunoMedia\bin\Debug\net5.0\atividadeAlunoMedia.exe
-C:\Desenv\AeCAcademy\C# .NET Console\atividadeAlunoMedia\atividadeAlunoMedia\bin\Debug\net5.0\atividadeAlunoMedia.deps.json
-C:\Desenv\AeCAcademy\C# .NET Console\atividadeAlunoMedia\atividadeAlunoMedia\bin\Debug\net5.0\atividadeAlunoMedia.runtimeconfig.json
-C:\Desenv\AeCAcademy\C# .NET Console\atividadeAlunoMedia\atividadeAlunoMedia\bin\Debug\net5.0\atividadeAlunoMedia.runtimeconfig.dev.json
-C:\Desenv\AeCAcademy\C# .NET Console\atividadeAlunoMedia\atividadeAlunoMedia\bin\Debug\net5.0\atividadeAlunoMedia.dll
-C:\Desenv\AeCAcademy\C# .NET Console\atividadeAlunoMedia\atividadeAlunoMedia\bin\Debug\net5.0\ref\atividadeAlunoMedia.dll
-C:\Desenv\AeCAcademy\C# .NET Console\atividadeAlunoMedia\atividadeAlunoMedia\bin\Debug\net5.0\atividadeAlunoMedia.pdb
-C:\Desenv\AeCAcademy\C# .NET Console\atividadeAlunoMedia\atividadeAlunoMedia\obj\Debug\net5.0\atividadeAlunoMedia.csproj.AssemblyReference.cache
-C:\Desenv\AeCAcademy\C# .NET Console\atividadeAlunoMedia\atividadeAlunoMedia\obj\Debug\net5.0\atividadeAlunoMedia.GeneratedMSBuildEditorConfig.editorconfig
-C:\Desenv\AeCAcademy\C# .NET Console\atividadeAlunoMedia\atividadeAlunoMedia\obj\Debug\net5.0\atividadeAlunoMedia.AssemblyInfoInputs.cache
-C:\Desenv\AeCAcademy\C# .NET Console\atividadeAlunoMedia\atividadeAlunoMedia\obj\Debug\net5.0\atividadeAlunoMedia.AssemblyInfo.cs
-C:\Desenv\AeCAcademy\C# .NET Console\atividadeAlunoMedia\atividadeAlunoMedia\obj\Debug\net5.0\atividadeAlunoMedia.csproj.CoreCompileInputs.cache
-C:\Desenv\AeCAcademy\C# .NET Console\atividadeAlunoMedia\atividadeAlunoMedia\obj\Debug\net5.0\atividadeAlunoMedia.dll
-C:\Desenv\AeCAcademy\C# .NET Console\atividadeAlunoMedia\atividadeAlunoMedia\obj\Debug\net5.0\ref\atividadeAlunoMedia.dll
-C:\Desenv\AeCAcademy\C# .NET Console\atividadeAlunoMedia\atividadeAlunoMedia\obj\Debug\net5.0\atividadeAlunoMedia.pdb
-C:\Desenv\AeCAcademy\C# .NET Console\atividadeAlunoMedia\atividadeAlunoMedia\obj\Debug\net5.0\atividadeAlunoMedia.genruntimeconfig.cache
+C:/Users/Sebastião/source/repos/atividadeAlunoMedia/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.csproj.AssemblyReference.cache
+C:/Users/Sebastião/source/repos/atividadeAlunoMedia/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Sebastião/source/repos/atividadeAlunoMedia/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.AssemblyInfoInputs.cache
+C:/Users/Sebastião/source/repos/atividadeAlunoMedia/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.AssemblyInfo.cs
+C:/Users/Sebastião/source/repos/atividadeAlunoMedia/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.csproj.CoreCompileInputs.cache
+C:/Users/Sebastião/source/repos/atividadeAlunoMedia/atividadeAlunoMedia/bin/Debug/net5.0/atividadeAlunoMedia.exe
+C:/Users/Sebastião/source/repos/atividadeAlunoMedia/atividadeAlunoMedia/bin/Debug/net5.0/atividadeAlunoMedia.deps.json
+C:/Users/Sebastião/source/repos/atividadeAlunoMedia/atividadeAlunoMedia/bin/Debug/net5.0/atividadeAlunoMedia.runtimeconfig.json
+C:/Users/Sebastião/source/repos/atividadeAlunoMedia/atividadeAlunoMedia/bin/Debug/net5.0/atividadeAlunoMedia.runtimeconfig.dev.json
+C:/Users/Sebastião/source/repos/atividadeAlunoMedia/atividadeAlunoMedia/bin/Debug/net5.0/atividadeAlunoMedia.dll
+C:/Users/Sebastião/source/repos/atividadeAlunoMedia/atividadeAlunoMedia/bin/Debug/net5.0/ref/atividadeAlunoMedia.dll
+C:/Users/Sebastião/source/repos/atividadeAlunoMedia/atividadeAlunoMedia/bin/Debug/net5.0/atividadeAlunoMedia.pdb
+C:/Users/Sebastião/source/repos/atividadeAlunoMedia/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.dll
+C:/Users/Sebastião/source/repos/atividadeAlunoMedia/atividadeAlunoMedia/obj/Debug/net5.0/ref/atividadeAlunoMedia.dll
+C:/Users/Sebastião/source/repos/atividadeAlunoMedia/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.pdb
+C:/Users/Sebastião/source/repos/atividadeAlunoMedia/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.genruntimeconfig.cache
+C:/Desenv/AeCAcademy/C# .NET Console/atividadeAlunoMedia/atividadeAlunoMedia/bin/Debug/net5.0/atividadeAlunoMedia.exe
+C:/Desenv/AeCAcademy/C# .NET Console/atividadeAlunoMedia/atividadeAlunoMedia/bin/Debug/net5.0/atividadeAlunoMedia.deps.json
+C:/Desenv/AeCAcademy/C# .NET Console/atividadeAlunoMedia/atividadeAlunoMedia/bin/Debug/net5.0/atividadeAlunoMedia.runtimeconfig.json
+C:/Desenv/AeCAcademy/C# .NET Console/atividadeAlunoMedia/atividadeAlunoMedia/bin/Debug/net5.0/atividadeAlunoMedia.runtimeconfig.dev.json
+C:/Desenv/AeCAcademy/C# .NET Console/atividadeAlunoMedia/atividadeAlunoMedia/bin/Debug/net5.0/atividadeAlunoMedia.dll
+C:/Desenv/AeCAcademy/C# .NET Console/atividadeAlunoMedia/atividadeAlunoMedia/bin/Debug/net5.0/ref/atividadeAlunoMedia.dll
+C:/Desenv/AeCAcademy/C# .NET Console/atividadeAlunoMedia/atividadeAlunoMedia/bin/Debug/net5.0/atividadeAlunoMedia.pdb
+C:/Desenv/AeCAcademy/C# .NET Console/atividadeAlunoMedia/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.csproj.AssemblyReference.cache
+C:/Desenv/AeCAcademy/C# .NET Console/atividadeAlunoMedia/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:/Desenv/AeCAcademy/C# .NET Console/atividadeAlunoMedia/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.AssemblyInfoInputs.cache
+C:/Desenv/AeCAcademy/C# .NET Console/atividadeAlunoMedia/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.AssemblyInfo.cs
+C:/Desenv/AeCAcademy/C# .NET Console/atividadeAlunoMedia/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.csproj.CoreCompileInputs.cache
+C:/Desenv/AeCAcademy/C# .NET Console/atividadeAlunoMedia/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.dll
+C:/Desenv/AeCAcademy/C# .NET Console/atividadeAlunoMedia/atividadeAlunoMedia/obj/Debug/net5.0/ref/atividadeAlunoMedia.dll
+C:/Desenv/AeCAcademy/C# .NET Console/atividadeAlunoMedia/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.pdb
+C:/Desenv/AeCAcademy/C# .NET Console/atividadeAlunoMedia/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.genruntimeconfig.cache
+/Users/danilo/projetos/torne-se/aulas/dotnet_core/aec/atividade-media-aluno-dot-net-framework/atividadeAlunoMedia/bin/Debug/net5.0/atividadeAlunoMedia.deps.json
+/Users/danilo/projetos/torne-se/aulas/dotnet_core/aec/atividade-media-aluno-dot-net-framework/atividadeAlunoMedia/bin/Debug/net5.0/atividadeAlunoMedia.runtimeconfig.json
+/Users/danilo/projetos/torne-se/aulas/dotnet_core/aec/atividade-media-aluno-dot-net-framework/atividadeAlunoMedia/bin/Debug/net5.0/atividadeAlunoMedia.runtimeconfig.dev.json
+/Users/danilo/projetos/torne-se/aulas/dotnet_core/aec/atividade-media-aluno-dot-net-framework/atividadeAlunoMedia/bin/Debug/net5.0/atividadeAlunoMedia.dll
+/Users/danilo/projetos/torne-se/aulas/dotnet_core/aec/atividade-media-aluno-dot-net-framework/atividadeAlunoMedia/bin/Debug/net5.0/ref/atividadeAlunoMedia.dll
+/Users/danilo/projetos/torne-se/aulas/dotnet_core/aec/atividade-media-aluno-dot-net-framework/atividadeAlunoMedia/bin/Debug/net5.0/atividadeAlunoMedia.pdb
+/Users/danilo/projetos/torne-se/aulas/dotnet_core/aec/atividade-media-aluno-dot-net-framework/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.csproj.AssemblyReference.cache
+/Users/danilo/projetos/torne-se/aulas/dotnet_core/aec/atividade-media-aluno-dot-net-framework/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilo/projetos/torne-se/aulas/dotnet_core/aec/atividade-media-aluno-dot-net-framework/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.AssemblyInfoInputs.cache
+/Users/danilo/projetos/torne-se/aulas/dotnet_core/aec/atividade-media-aluno-dot-net-framework/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.AssemblyInfo.cs
+/Users/danilo/projetos/torne-se/aulas/dotnet_core/aec/atividade-media-aluno-dot-net-framework/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.csproj.CoreCompileInputs.cache
+/Users/danilo/projetos/torne-se/aulas/dotnet_core/aec/atividade-media-aluno-dot-net-framework/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.dll
+/Users/danilo/projetos/torne-se/aulas/dotnet_core/aec/atividade-media-aluno-dot-net-framework/atividadeAlunoMedia/obj/Debug/net5.0/ref/atividadeAlunoMedia.dll
+/Users/danilo/projetos/torne-se/aulas/dotnet_core/aec/atividade-media-aluno-dot-net-framework/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.pdb
+/Users/danilo/projetos/torne-se/aulas/dotnet_core/aec/atividade-media-aluno-dot-net-framework/atividadeAlunoMedia/obj/Debug/net5.0/atividadeAlunoMedia.genruntimeconfig.cache

@@ -6,11 +6,16 @@ using System.Threading.Tasks;
 
 namespace atividadeAlunoMedia
 {
-    class Aluno
+    class Aluno : Pessoa
     {
         public int Id { get; set; }
         public string Nome { get; set; }
         public string Matricula { get; set; }
+
+        public override string FacaAlgoParaSuaFamilia()
+        {
+            return base.FacaAlgoParaSuaFamilia() + " - O que eu fiz para minha familia";
+        }
 
         private List<double> notas;
         public List<double> Notas

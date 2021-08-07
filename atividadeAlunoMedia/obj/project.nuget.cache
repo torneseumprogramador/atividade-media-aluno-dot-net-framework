@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2oUrwbQfzH2h5ktHtbnKpjQHmm+SOcE3DtOViIViMSCGYxmGCaAFwDckdULZ6G+/xlUxYJ/Dl81dgMvY6C/OKA==",
+  "dgSpecHash": "WU5gtrgMn3EDAnYkC8txPCwojkIUjpEKww3ovoLoHWRt6jXfSkGgtbmCg+VOzqflLYO/CM+68pCxFMAcbgSGfA==",
   "success": true,
-  "projectFilePath": "C:\\Desenv\\AeCAcademy\\C# .NET Console\\atividadeAlunoMedia\\atividadeAlunoMedia\\atividadeAlunoMedia.csproj",
+  "projectFilePath": "/Users/danilo/projetos/torne-se/aulas/dotnet_core/aec/atividade-media-aluno-dot-net-framework/atividadeAlunoMedia/atividadeAlunoMedia.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
